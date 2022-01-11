@@ -1,4 +1,4 @@
-module minikubeWebsocketsTerminal
+module InteractiveShellWebsocketsClient
 
 go 1.17
 
